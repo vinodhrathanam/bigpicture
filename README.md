@@ -39,5 +39,8 @@ To check the report, open the '/results/report.html' file once the execution has
    [Selenium - Python Documentation](<https://selenium-python.readthedocs.io/>)
    
    [Webdriver Manager for Python](<https://github.com/SergeyPirogov/webdriver_manager>)
+
+# CodeOwners
+  rathanamvinodh@gmail.com; greenishtree14@gmail.com
    
    
