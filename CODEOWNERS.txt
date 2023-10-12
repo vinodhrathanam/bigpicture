@@ -1,0 +1,3 @@
+# Any change inside the /src directory
+# will require approval from greenishtree14@gmail.com
+*.go greenishtree14@gmail.com
